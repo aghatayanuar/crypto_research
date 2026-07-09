@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Research Workspace",
+  "description": "A personal on-chain intelligence database and quantitative crypto research laboratory for Solana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
